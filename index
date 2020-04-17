@@ -1,0 +1,69 @@
+<link href="https://fonts.googleapis.com/css?family=Permanent+Marker|Roboto&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<nav id="navbar">
+  
+  <ul id="nav-list">
+    <li><a href="#About">About</a></li>
+    <li><a href="#Portfolio">Portfolio</a></li>
+    <li><a href="#Contact">Contact</a></li>
+  </ul>
+</nav>
+
+<section id="welcome-section">
+  <h1 id="About"><span class="code">< </span>Hey, I am Robert<span class="code"> /> </span></h1>
+  <p id="subtitle">I AM A WEB DEVELOPER</p> 
+    </section>
+    
+    <section id="projects">
+    <h3 id="Portfolio">Check out some of my work</h3>
+    
+    <div id="project-grid">
+     <a class="projects-title" href="https://codepen.io/freeCodeCamp/full/zNqgVx"> <img class="project-tile" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/tribute.jpg">
+       <p id="work-title">Tribute Page</p></a>
+      
+        <a class="projects-title" href="https://codepen.io/freeCodeCamp/full/qRZeGZ"><img class="project-tile" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/random-quote-machine.png">
+        <p id="work-title">Random Quote Machine</p></a>
+
+      
+      <a class="projects-title" href="https://codepen.io/freeCodeCamp/full/wgGVVX">
+      <img class="project-tile" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/calc.png">
+      <p id="work-title">JavaScript Calculator</p></a>
+
+      
+      <a class="projects-title" href="https://codepen.io/freeCodeCamp/full/mVEJag">
+      <img class="project-tile" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/map.jpg">
+      <p id="work-title">Map Data across the globe</p></a>
+
+      
+     <a class="projects-title" href="https://codepen.io/freeCodeCamp/full/wGqEga">
+      <img class="project-tile" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/wiki.png">
+       <p id="work-title">Wikipedia Viewer</p></a>
+
+      
+     <a class="projects-title" href="https://codepen.io/freeCodeCamp/full/KzXQgy">
+      <img class="project-tile" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/images/tic-tac-toe.png">
+      <p id="work-title">Tic Tac Toe Game</p></a>
+
+      
+      </div>
+      
+      </div>
+    </section>
+
+<section id="profile">
+  <div id="title-section">    
+  <h3 id="profile-title">Lets Work Together....</h3>
+        <p id="profile-subtitle">How do you take your coffee?</p>
+  </div>
+  <div id="socials">
+    <a id="profile-link" href="https://www.facebook.com/" target="_blank">
+      <i class="fa fa-facebook"></i>Facebook</a>
+    
+    <a id="profile-link" href="https://github.com/bobodunn" target="_blank">
+      <i class="fa fa-github"></i>Github</a>
+  </div>
+
+</section>
